@@ -1,4 +1,4 @@
-# LogBERT
+# BERTLog
 This document provides instructions for setting up and running two Python scripts evaluate log level quality.
 
 ## Installation
